@@ -1,0 +1,42 @@
+
+RELAY HEALTHCARE DATA ANALYSIS REPORT
+==================================================
+
+DATASET OVERVIEW
+- Total Records: 94,068
+- Total Columns: 15
+- Memory Usage: 69.04 MB
+- Numeric Columns: 5
+- Categorical Columns: 10
+
+DATA QUALITY
+- Missing Values: 0
+- Duplicate Rows: 0
+- Unique Countries: 201
+- Unique Indicators: 1
+
+KEY FINDINGS
+1. Dataset covers comprehensive healthcare metrics
+2. Includes 3 Triple Billion categories
+3. Time range: 2018 - 2030
+4. Multiple geographic levels represented
+
+STATISTICAL INSIGHTS
+
+DIM_TIME:
+  - Mean: 2,024.00
+  - Median: 2,024.00
+  - Std Dev: 3.74
+  - Range: 2,018.00 - 2,030.00
+
+DIM_GEO_CODE_M49:
+  - Mean: 446.13
+  - Median: 440.00
+  - Std Dev: 266.73
+  - Range: 1.00 - 958.00
+
+COUNT_N:
+  - Mean: 958,210.36
+  - Median: 0.00
+  - Std Dev: 15,404,127.51
+  - Range: -333,682,540.29 - 839,999,443.11
