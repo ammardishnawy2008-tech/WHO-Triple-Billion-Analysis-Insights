@@ -6,7 +6,7 @@ A complete data analysis project that focuses on professional data cleaning, exp
 This project focuses on analyzing the **RELAY 3B dataset** through a full data analysis pipeline.  
 The main goal is to transform raw data into a clean, structured, and analysis-ready format, then extract meaningful insights using exploratory data analysis techniques.
 
-This project demonstrates real-world data handling skills required for a **Junior Data Analyst** role.
+This project demonstrates real-world data handling skills required .
 
 ---
 
